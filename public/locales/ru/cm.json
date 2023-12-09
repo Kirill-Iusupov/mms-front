@@ -1,0 +1,67 @@
+{
+  "locale": {
+    "language": "Язык интерфейса",
+    "russian": "Русский",
+    "kyrgyz": "Кыргызча",
+    "english": "English"
+  },
+  "actions": {
+    "save": "Сохранить",
+    "select": "Выберите",
+    "upload": "Загрузить",
+    "update": "Изменить",
+    "delete": "Удалить",
+    "drag": "Нажмите или перетащите файл в эту область, чтобы загрузить"
+  },
+  "role": {
+    "teacher": "Преподаватель",
+    "student": "Студент"
+  },
+  "bottomLinks": {
+    "settings": "Настройки",
+    "logout": "Выход"
+  },
+  "routes": {
+    "employers": "Сотрудники",
+    "businessTrips": "Командировки",
+    "reports": "Отчеты",
+    "items": "Предметы",
+    "order": "Приказы"
+  },
+  "pages": {
+    "login": "Вход",
+    "employers": "Сотрудники",
+    "businessTrips": "Командировки",
+    "logout": "Выход",
+    "settings": "Настройки",
+    "structure": "Структура",
+    "schedule":"Штатное рассписание",
+    "reports":"Отчеты"
+  },
+  "notifications": {
+    "success": {
+      "save": "Успешно сохранено!",
+      "insert": "Успешно добавлено!",
+      "edit": "Успешно изменено!",
+      "remove": "Успешно удалено!"
+    },
+    "error": {
+      "save": "Ошибка при сохранении",
+      "insert": "Ошибка при добавлении!",
+      "edit": "Ошибка при изменении!",
+      "remove": "Ошибка при удалении!"
+    }
+  },
+  "modal":{
+    "add":"Добавить",
+    "cancel": "Отменить",
+    "jobTitle":"Должность",
+    "structure":"Структура"
+  },
+  "jobs":{
+    "front": "Frontend",
+    "back":"Backend",
+    "design":"Дизайнер",
+    "engeneer":"Разработчик"
+  }
+}
